@@ -32,7 +32,7 @@ DNS privacy presents a problem for mitigating abusive behaviour and legitimate r
 
 In DNS privacy, authoritarian censorship faces two foes: user privacy and loss of censorship techniques. This leads the most dedicated regimes to effectively shutdown volumes of traffic based on protocols, rather than content or user data, thus casting a much wider net on populations in China, Russia and elsewhere. Public interest advocates, nor DNS privacy engineers, haven’t yet planned in advance their next move in this cat-mouse game.
 
-It is the hope of this paper that we can begin to release these tensions by addressing them headon. Future work might build upon the basic literature review and analysis by gathering end-user evidence of the problem, which in turn might present best practice considerations to implementers and the technical community.
+It is the hope of this paper that we can begin to release these tensions by addressing them head-on. Future work might build upon the basic literature review and analysis by gathering end-user evidence of the problem, which in turn might present best practice considerations to implementers and the technical community.
 
 # Vs. Measurement
 
