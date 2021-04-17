@@ -12,7 +12,7 @@ Abstract: This short paper attempts to catalogue and briefly treat the predomina
 
 Privacy is a fundamental human right. It is also difficult to define but is nonetheless important for network engineers to understand and consider. RFC 6973 reflexively states, "privacy is the sum of what is contained in this document." (NOTE:  https://trac.tools.ietf.org/html/rfc6973 )
 
-Furthermore RFC 8280 exposes the ways in which protocol design’s impacts on human rights like the right to privacy and freedom of expression might be better documented to understand how they are often traded off for one another:
+Furthermore RFC 8280 exposes the ways in which protocol designs' impacts on human rights like the right to privacy and freedom of expression might be better documented to understand how they are often traded off for one another:
 
 *In such cases, the different affected rights need to be balanced. To do this, it is crucial that the impacts on rights are clearly documented in order to mitigate potential harm.* (NOTE:  https://trac.tools.ietf.org/html/rfc8280 )
 
