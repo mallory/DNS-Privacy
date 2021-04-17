@@ -117,7 +117,7 @@ For measurement and abuse it’s harder to conduct internet research and mitigat
 
 At minimum what is needed is a set of best practices for implementers. This will aid in a secondary and very important aim to grow a robust ecosystem of DNS privacy provision that balances these important concerns. There is a need for a document that is a bit more normative than those that already exist: an Internet draft sketching out recommendations for DNS operators and application developers giving clear guidance on set up options. (NOTE:  See Section 5.1.3. Protocol recommendations for a concise summary of privacy threats/mitigations for DoT, DoH, DNSSEC. See Section 6 for recommendation for what operators' privacy statements should include and what this means in real time. Overeinder, B., Dickinson, S., Rijswijk-Deij, R. van, & Mankin, A. (2019). Recommendations for DNS Privacy Service Operators (work in progress). IETF. https://tools.ietf.org/html/draft-ietf-dprive-bcp-op-06)
 
-DNS Privacy everywhere seems to solve many problems faced by internet researchers in their measurements, users who care about internet consolidation, network security tools. If it’s everywhere then it in effect should create a too big to block situation for at-scale censorship through network shutdowns as well.
+DNS Privacy everywhere seems to solve many problems faced by internet researchers in their measurements, users who care about internet consolidation, and network security tools. If it’s everywhere then it in effect should create a too big to block situation for at-scale censorship through network shutdowns as well.
 
 The authors open a call for research that considers more deeply these four trade offs as well as asks if there are other tensions not considered.
 
