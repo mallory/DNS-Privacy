@@ -1,6 +1,6 @@
 DNS Privacy Vs.
 
-Authors: [Mallory Knodel](mailto:mknodel@cdt.org), Shivan Sahib
+Authors: [Mallory Knodel](mailto:mknodel@cdt.org), [Shivan Sahib](https://github.com/shivankaul)
 
 Label: This paper is a preliminary work in progress and open for discussion and comment on GitHub.
 
@@ -38,7 +38,7 @@ It is the hope of this paper that we can begin to release these tensions by addr
 
 Internet research through measurement is important to the public interest because knowledge of network performance and operation are critical for empowering users as consumers, (NOTE:  Need citation for Measurement Lab about text as to why their project exists.) but also in the monitoring of behaviours that might impact human rights, such as freedom of expression.
 
-In addition, in an unencrypted world, researchers can analyse data collected by internet providers and do studies on whether they are living up to their privacy policies (NOTE:  Lessons from Privacy Measurement, https://datatracker.ietf.org/meeting/105/materials/slides-105-ietf-sesse-lessons-from-privacy-measurement-arvind-narayanan-00.pdf). It can be argued that web privacy measurement studies has played an important role in highlighting privacy abuses on the internet (NOTE: OpenWPM, a web privacy measurement framework: https://webtap.princeton.edu/software/).
+In addition, in an unencrypted world, researchers can analyse data collected by internet providers and do studies on whether they are living up to their privacy policies (NOTE:  Lessons from Privacy Measurement, https://datatracker.ietf.org/meeting/105/materials/slides-105-ietf-sesse-lessons-from-privacy-measurement-arvind-narayanan-00.pdf). It can be argued that web privacy measurement studies has played an important role in highlighting privacy abuses on the internet (NOTE: [OpenWPM](https://webtap.princeton.edu/software/), a web privacy measurement framework and [PageGraph](https://github.com/brave/brave-browser/wiki/PageGraph#publications-using-pagegraph), an instrumented browser for more in-depth website behavior measurements).
 
 However there are two ways in which the right to privacy and internet research through measurement are at odds. The first is directly stated by Iain Learmonth, "measurements can give insight into the functioning and usage of the Internet, they can come at the cost of user privacy." (NOTE:  Learmonth, I. (2019). Guidelines for Performing Safe Measurement on the Internet (work in progress). IETF. https://tools.ietf.org/html/draft-learmonth-pearg-safe-internet-measurement-02) Furthermore measurement plays a fundamentally democratic role in performance monitoring, yet there are known privacy concerns. (NOTE:  https://tools.ietf.org/html/draft-ietf-tsvwg-transport-encrypt-18#section-2.2)
 
